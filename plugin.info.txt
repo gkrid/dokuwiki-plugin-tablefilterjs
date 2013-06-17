@@ -1,0 +1,7 @@
+base tablefilterjs
+author Szymon Olewniczak
+email szymon.olewniczak@rid.pl
+date 2011-05-10
+name Table Filter JavaScript
+desc Filter dokuwiki tables using regexs
+url http://www.dokuwiki.org/plugin:tablefilterjs
