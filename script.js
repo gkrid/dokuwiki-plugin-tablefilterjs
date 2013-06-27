@@ -11,7 +11,7 @@ tablefilterjs.find_th_eq = function( col, $table )
 	    eq = jQuery(this).index();
     });
     return eq;
-}
+};
 jQuery(document).ready(function ()
 {
     jQuery(".tablefilterjs").each(function() {
