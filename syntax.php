@@ -1,9 +1,4 @@
 <?php
-/**
- *
- * @license    GPL 3 (http://www.gnu.org/licenses/gpl.html)
- * @author     Szymon Olewniczak
- */
 // must be run within Dokuwiki
 if (!defined('DOKU_INC')) die();
 if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN', DOKU_INC.'lib/plugins/');
